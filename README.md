@@ -69,7 +69,7 @@ This program uses a dataset of 50 words and their meanings written in a txt file
   - The program stores the words and their meanings and key value pairs in a hashtable by reading from the file. This is sped up by the use of the concurrent futures module.
   - It also writes the content of the hashtable to the text file before exiting. It uses the memory buffer to speed up this process. 
 ## Author
-[GROUP 3, DSA Project Group](https://github.com/gyenios)
+[Gyening Kwadjo Augustine, DSA Project](https://github.com/gyenios)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
